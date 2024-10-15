@@ -3,7 +3,7 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/BookCartel/", // Set the base path for your app
+  base: "/Bookify/", // Set the base path for your app
   build: {
     rollupOptions: {
       output: {

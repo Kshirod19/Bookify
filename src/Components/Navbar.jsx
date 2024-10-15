@@ -31,7 +31,7 @@ const Navbar = () => {
           >
             <img src={logo} className="h-8" alt="Bookify" />
             <span className="self-center text-2xl font-light text-white font-girassol whitespace-nowrap">
-            BookCartel
+            Bookify
             </span>
           </a>
 
